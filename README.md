@@ -1,4 +1,4 @@
-# Real-Time-Pool-Drowning-Detection-and-Alert-System
+2# Real-Time-Pool-Drowning-Detection-and-Alert-System
 overview
 
 An AI-powered computer vision system designed to detect drowning incidents in swimming pools in real time and automatically trigger instant alerts to support faster emergency response.
@@ -29,17 +29,14 @@ Classes: Swimming & Drowning
 Training Epochs: 150
 GPU: Tesla T4
 Project Screenshots
-Drowning Detection
+## Detection Result
+![Detection](detection.png)
 
+## Alert System
+![Alert](alert.jpeg)
 
-
-Alert Notification
-
-
-
-Model Results
-
-
+## Model Performance
+![Results](results.jpeg)
 
 Future Improvements
 Integration with real-time CCTV cameras
