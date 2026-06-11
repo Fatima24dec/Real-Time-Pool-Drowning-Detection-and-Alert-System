@@ -1,4 +1,4 @@
-2# Real-Time-Pool-Drowning-Detection-and-Alert-System
+# Real-Time-Pool-Drowning-Detection-and-Alert-System
 overview
 
 An AI-powered computer vision system designed to detect drowning incidents in swimming pools in real time and automatically trigger instant alerts to support faster emergency response.
@@ -45,4 +45,4 @@ Enhanced alert mechanisms for emergency responders
 Multi-person tracking and monitoring
 Author
 
-Fatima A.
+Fatima Al-Ibrahim.
